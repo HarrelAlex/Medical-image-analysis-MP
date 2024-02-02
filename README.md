@@ -1,4 +1,4 @@
-# Disease-Prediction-Using-Medical-Images-MP
+# Disease Prediction Using Medical Images MP
 
 ### IDEA:
 
