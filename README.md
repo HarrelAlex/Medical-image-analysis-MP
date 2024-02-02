@@ -1,4 +1,4 @@
-# Prognosis Using Medical Imaging
+# Prognosis Using Medical Imaging (PMI)
 
 ### IDEA:
 
