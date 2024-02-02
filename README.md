@@ -13,6 +13,7 @@ Web app that takes Mri, X-ray scans as input and train a model that can predict 
 ### Framework
 
 1.Image scanning 
+
 2.Reverse image search 
 3.Prediction generation
 4.Model training
