@@ -1,4 +1,4 @@
-# Disease Prediction Using Medical Images MP
+# Prognosis Using Medical Imaging
 
 ### IDEA:
 
