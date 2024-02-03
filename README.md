@@ -37,8 +37,17 @@ Develop a system that analyzes medical images to assist in diagnosing conditions
 ### 7. Model Evaluation:
 
    Assess the model's performance on the testing set using appropriate evaluation metrics (e.g., accuracy, precision, recall, F1 score). Consider using a confusion matrix for a detailed analysis.
+   
+### 8. Implementing the model into a UI: 
 
-### 8. Interpreting  and Providing Insights: 
+   Connecting the backend model with the frontend components responsible for user interaction.
+
+   - **Frontend Setup**: Choose a frontend framework or library for building your user interface.
+
+     - Common choices include: Customtkinter, Tkinter Designer(figma), React
+   - **Backend Setup**: Ensure that your machine learning model is properly trained, saved, and ready for deployment. 
+
+### 9. Interpreting  and Providing Insights: 
 
    Interpret the decisions made by your model. Provide necessary medical resources or indicate danger level as interpreted by the model. Can also provide various treatment methods and advices if necessary 
 
