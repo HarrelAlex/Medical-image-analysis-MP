@@ -1,7 +1,7 @@
 # CHECKLIST :-
 
   1. Problem Definition [x]
-  2. Data Collection [ ]
+  2. Data Collection [X]
   3. Data Preprocessing [ ]
   4. Model Selection/Transfer Learning [ ]
   5. Data Splitting [ ]
