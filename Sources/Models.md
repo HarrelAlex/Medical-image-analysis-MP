@@ -18,3 +18,7 @@
 
 - https://www.kaggle.com/code/amyjang/alzheimer-mri-model-tensorflow-2-3-data-loading/notebook
 
+## Pneumonia Detection Model with Transfer Learning
+
+- https://www.kaggle.com/code/minaemil329/chest-x-ray-classification-with-transfer-learning
+
