@@ -2,9 +2,12 @@
 
 - https://www.kaggle.com/code/madz2000/pneumonia-detection-using-cnn-92-6-accuracy/notebook
 
-## Brain Tumor Classification Using Deep Learning Algorithms
-https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms
+## Brain Tumor Classification Using Deep Learning Algorithms(1)
+- https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms
 
 ## Tumor Detection
-https://www.kaggle.com/code/rezaziaeian/finetuned-tumor-detection-with-99-test-accuracy
+- https://www.kaggle.com/code/rezaziaeian/finetuned-tumor-detection-with-99-test-accuracy
+
+## Brain Tumor Classification(2)
+- https://www.kaggle.com/code/sheekarbanerjee/brain-tumor-pytorch-resnet50-train-acc-95-3
 
