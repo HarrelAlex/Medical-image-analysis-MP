@@ -20,7 +20,13 @@
 
 # ALZHEIMERS MRI DATASETS :-
 
-### 
+### Alzheimer_s Dataset
+
+- https://www.kaggle.com/code/amyjang/alzheimer-mri-model-tensorflow-2-3-data-loading/input
+
+### Alzheimer's disease MRI images
+
+- https://data.mendeley.com/datasets/kcjt4v658x/2
 
 
 
