@@ -23,4 +23,5 @@
 - https://www.kaggle.com/code/minaemil329/chest-x-ray-classification-with-transfer-learning
 - https://www.kaggle.com/code/jonaspalucibarbosa/chest-x-ray-pneumonia-cnn-transfer-learning
 - https://www.kaggle.com/code/mohamedzaghloula/pneumonia-detection-using-transfer-learning-vgg16
+- https://www.kaggle.com/code/youssifhassan/detecting-pneumonia-from-x-ray-images
 
