@@ -8,7 +8,7 @@ Develop a system that analyzes medical images to assist in diagnosing conditions
 
 ### 1. Problem definition: 
 
-   Web app that takes Mri, X-ray scans as input and train a model that can predict the disease and provide resources relating to  it
+   Web app that takes MRI, X-ray scans as input and train a model that can predict the disease and provide resources relating to  it
 
 ### 2. Data Collection:
 
