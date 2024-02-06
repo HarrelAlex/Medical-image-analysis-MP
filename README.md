@@ -1,4 +1,4 @@
-# Prognosis Using Medical Imaging (PMI)
+# Prognosis Using Artificial Intelligence (PAI)
 
 ### IDEA:
 
