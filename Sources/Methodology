@@ -1,0 +1,42 @@
+##Methodology
+
+CAD is fundamentally based on highly complex pattern recognition. X-ray or other types of images are scanned for suspicious structures. 
+Normally a few thousand images are required to optimize the algorithm. 
+Digital image data are copied to a CAD server in a DICOM-format and are prepared and analyzed in several steps.
+
+##1. Preprocessing for
+
+Reduction of artifacts (bugs in images)
+Image noise reduction
+Leveling (harmonization) of image quality (increased contrast) for clearing the image's different basic conditions e.g. different exposure parameter.
+Filtering
+
+##2. Segmentation for
+
+Differentiation of different structures in the image, e.g. heart, lung, ribcage, blood vessels, possible round lesions
+Matching with anatomic databank
+Sample gray-values in volume of interest[15]
+
+##3. Structure/ROI (Region of Interest) Analyze Every detected region is analyzed individually for special characteristics:
+
+Compactness
+Form, size and location
+Reference to close by structures / ROIs
+Average grey level value analyze within a ROI
+Proportion of grey levels to border of the structure inside the ROI
+
+##4. Evaluation / classification After the structure is analyzed, every ROI is evaluated individually (scoring) for the probability of a TP. 
+The following procedures are examples of classification algorithms.
+
+Nearest-Neighbor Rule (e.g. k-nearest neighbors)[16]
+Minimum distance classifier
+Cascade classifier
+Naive Bayes classifier
+Artificial neural network[17][18][19][20][21]
+Radial basis function network (RBF)
+Support vector machine (SVM)[22][23]
+Principal component analysis (PCA)
+If the detected structures have reached a certain threshold level, they are highlighted in the image for the radiologist. 
+Depending on the CAD system these markings can be permanently or temporary saved. 
+The latter's advantage is that only the markings which are approved by the radiologist are saved. 
+False hits should not be saved, because an examination at a later date becomes more difficult then.
