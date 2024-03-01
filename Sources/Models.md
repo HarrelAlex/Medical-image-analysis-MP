@@ -25,10 +25,9 @@
 
 - https://www.kaggle.com/code/sheekarbanerjee/brain-tumor-pytorch-resnet50-train-acc-95-3
 
-## Brain Tumour detection
+## Brain Tumour Detection
 
-- https://github.com/holgerroth/3Dunet_abdomen_cascade/blob/master/data.py
-
+- https://github.com/aviralchharia/Brain-Tumor-Detection-with-VGG-16-Transfer-Learning/blob/main/Brain-Tumor-Detection-MRI-Scans.ipynb
 # ALZHEIMER
 
 ## Alzheimer MRI Model + TensorFlow 2.3 Data Loading
