@@ -13,22 +13,30 @@
 
 # BRAIN TUMOUR
 
-## Brain Tumor Classification Using Deep Learning Algorithms(1)
+## Brain Tumour Classification Using Deep Learning Algorithms(1)
 
 - https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms
 
-## Tumor Detection
+## Tumour Detection
 
 - https://www.kaggle.com/code/rezaziaeian/finetuned-tumor-detection-with-99-test-accuracy
 
-## Brain Tumor Classification(2)
+## Brain Tumour Classification(2)
 
 - https://www.kaggle.com/code/sheekarbanerjee/brain-tumor-pytorch-resnet50-train-acc-95-3
+
+## Brain Tumour detection
+
+- https://github.com/holgerroth/3Dunet_abdomen_cascade/blob/master/data.py
 
 # ALZHEIMER
 
 ## Alzheimer MRI Model + TensorFlow 2.3 Data Loading
 
 - https://www.kaggle.com/code/amyjang/alzheimer-mri-model-tensorflow-2-3-data-loading/notebook
+
+## Model
+
+-https://github.com/holgerroth/3Dunet_abdomen_cascade/blob/master/data.py
 
 
