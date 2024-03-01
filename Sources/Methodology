@@ -1,23 +1,23 @@
-##Methodology
+## Methodology
 
 CAD is fundamentally based on highly complex pattern recognition. X-ray or other types of images are scanned for suspicious structures. 
 Normally a few thousand images are required to optimize the algorithm. 
 Digital image data are copied to a CAD server in a DICOM-format and are prepared and analyzed in several steps.
 
-##1. Preprocessing for
+## 1. Preprocessing for
 
 Reduction of artifacts (bugs in images)
 Image noise reduction
 Leveling (harmonization) of image quality (increased contrast) for clearing the image's different basic conditions e.g. different exposure parameter.
 Filtering
 
-##2. Segmentation for
+## 2. Segmentation for
 
 Differentiation of different structures in the image, e.g. heart, lung, ribcage, blood vessels, possible round lesions
 Matching with anatomic databank
 Sample gray-values in volume of interest[15]
 
-##3. Structure/ROI (Region of Interest) Analyze Every detected region is analyzed individually for special characteristics:
+## 3. Structure/ROI (Region of Interest) Analyze Every detected region is analyzed individually for special characteristics:
 
 Compactness
 Form, size and location
@@ -25,7 +25,7 @@ Reference to close by structures / ROIs
 Average grey level value analyze within a ROI
 Proportion of grey levels to border of the structure inside the ROI
 
-##4. Evaluation / classification After the structure is analyzed, every ROI is evaluated individually (scoring) for the probability of a TP. 
+## 4. Evaluation / classification After the structure is analyzed, every ROI is evaluated individually (scoring) for the probability of a TP. 
 The following procedures are examples of classification algorithms.
 
 Nearest-Neighbor Rule (e.g. k-nearest neighbors)[16]
