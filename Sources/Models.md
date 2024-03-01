@@ -36,6 +36,6 @@
 
 ## Model
 
--https://github.com/holgerroth/3Dunet_abdomen_cascade/blob/master/data.py
+- https://github.com/holgerroth/3Dunet_abdomen_cascade/blob/master/data.py
 
 
