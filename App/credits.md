@@ -1,8 +1,8 @@
 # MPIA Project, Sree Chitra Thirunal College of Engineering, Pappanamcode
 
-# Contributors:
+## Contributors:
 
-## Abimanyu Pradeep
-## Abineeth Thampi
-## Harrel Alex
+### Abimanyu Pradeep
+### Abineeth Thampi
+### Harrel Alex
 
